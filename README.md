@@ -30,7 +30,7 @@ This application allows users to:
 ## 💡 How to Run Locally
 
 1. **Clone this repository:**
-```bash
+
 git clone https://github.com/your-username/Mumbai_House_Price_Predictor.git
 cd Mumbai_House_Price_Predictor
 
