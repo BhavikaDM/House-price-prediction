@@ -31,8 +31,8 @@ This application allows users to:
 
 1. **Clone this repository:**
 
-git clone https://github.com/your-username/Mumbai_House_Price_Predictor.git
-cd Mumbai_House_Price_Predictor
+git clone https://github.com/your-username/House-Price-Prediction.git
+cd House-Price-Prediction
 
 ## 🏃🏽‍♂️ To Run the App
 ```bash
